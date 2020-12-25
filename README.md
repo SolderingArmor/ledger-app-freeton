@@ -38,7 +38,9 @@ make delete
 ## Example of Ledger Free Ton wallet functionality
 
 Test functionality (typical workflow):
+
 (Don't forget to open "Free Ton" app on the Ledger device before running commands!)
+
 ```bash
 # (x or s, depending on your device)
 source prepare-devenv.sh s
