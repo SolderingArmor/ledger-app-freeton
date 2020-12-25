@@ -72,4 +72,5 @@ This follows the specification available in the [`api.asc`](https://github.com/S
 
 ## Contest section (author verification)
 Author: Anton Platonov
+
 Telegram: @SuperArmor
