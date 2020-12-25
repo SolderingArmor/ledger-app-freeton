@@ -69,3 +69,7 @@ C build outputs warnings, but they are from Ledger SDK, didn't want to touch tha
 
 ## Documentation
 This follows the specification available in the [`api.asc`](https://github.com/SolderingArmor/ledger-app-freeton/blob/master/doc/api.asc).
+
+## Contest section (author verification)
+Author: Anton Platonov
+Telegram: @SuperArmor
