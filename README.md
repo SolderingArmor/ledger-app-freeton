@@ -1,4 +1,4 @@
-# Ledger Free Ton app
+# Ledger Free TON app
 
 ## Overview
 This app is a Free Ton app for a Nano S/X app (based on boilerplate app).
@@ -59,7 +59,7 @@ python tests/send_crystals.py --account_number=12345 --destination=0:cba39007bdb
 ```
 
 ## Tips
-Be sure to use the latest (v1.4.0.0 at the moment) "ton-client-py", sometimes pip installs v1.3.*.
+Be sure to use the latest (v1.4.0.1 at the moment) "ton-client-py", sometimes pip installs v1.3.*.
 If you see errors in python, check this first.
 
 C build outputs warnings, but they are from Ledger SDK, didn't want to touch that.
