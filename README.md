@@ -1,7 +1,7 @@
 # Ledger Free TON app
 
 ## Overview
-This app is a Free Ton app for a Nano S/X app (based on boilerplate app).
+This app is a Free TON app for a Nano S/X app (based on boilerplate app).
 App has minimal footprint, performs Public Key generation and payload signing on the Ledger device.
 
 ## Building and installing
@@ -39,7 +39,7 @@ make delete
 
 Test functionality (typical workflow):
 
-(Don't forget to open "Free Ton" app on the Ledger device before running commands!)
+(Don't forget to open "Free TON" app on the Ledger device before running commands!)
 
 ```bash
 # (x or s, depending on your device)
