@@ -1,7 +1,7 @@
 # Ledger Free TON app
 
 ## Overview
-This app is a Free TON app for a Nano S/X app (based on boilerplate app).
+This app is a Free TON app for Ledger Nano S/X device (based on boilerplate app).
 App has minimal footprint, performs Public Key generation and payload signing on the Ledger device.
 
 ## Building and installing
