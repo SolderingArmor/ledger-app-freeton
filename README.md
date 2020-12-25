@@ -62,7 +62,7 @@ python tests/send_crystals.py --account_number=12345 --destination=0:cba39007bdb
 ```
 
 ## Tips
-Be sure to use the latest (v1.4.0.1 at the moment) "ton-client-py", sometimes pip installs v1.3.*.
+Be sure to use v1.4.0.1 "ton-client-py" python package, v1.3.* versions are unsupported.
 If you see errors in python, check this first.
 
 C build outputs warnings, but they are from Ledger SDK, didn't want to touch that.
