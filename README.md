@@ -35,7 +35,7 @@ make delete
 ```
 
 
-## Example of Ledger Free Ton wallet functionality
+## Example of Ledger Free TON wallet functionality
 
 Test functionality (typical workflow):
 
